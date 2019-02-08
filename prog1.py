@@ -1,9 +1,9 @@
 b=int(raw_input())
 if(b>0):
-   print("positive")
+   print("Positive")
 elif(b<0):
-    print("negative")
+    print("Negative")
 elif(b==0):
-    print("zero")
+    print("Zero")
   
 
